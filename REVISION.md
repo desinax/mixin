@@ -2,7 +2,8 @@ Revision History
 =======================
 
 
-v1.0.0 (2018-10-04)
+
+v1.0.0 (2018-10-05)
 ------------------------
 
 * Gathered a combination of reusable modules to their own repo.
