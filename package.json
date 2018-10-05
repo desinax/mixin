@@ -1,6 +1,6 @@
 {
   "name": "@desinax/mixin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Desinax LESS/SASS module for reusable mixin elements.",
   "main": "null",
   "scripts": {
