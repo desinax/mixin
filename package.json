@@ -1,14 +1,14 @@
 {
-  "name": "@desinax/general",
+  "name": "@desinax/mixin",
   "version": "1.0.0",
-  "description": "Desinax LESS/SASS module for general reusable style elements.",
+  "description": "Desinax LESS/SASS module for reusable mixin elements.",
   "main": "null",
   "scripts": {
     "test": "make test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/desinax/general.git"
+    "url": "git+https://github.com/desinax/mixin.git"
   },
   "keywords": [
     "less",
@@ -20,9 +20,9 @@
   "author": "Mikael Roos",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/desinax/general/issues"
+    "url": "https://github.com/desinax/mixin/issues"
   },
-  "homepage": "https://github.com/desinax/general#readme",
+  "homepage": "https://github.com/desinax/mixin#readme",
   "devDependencies": {
     "clean-css": "^4.2.1",
     "css-styleguide": "^0.9.6",
