@@ -1,13 +1,13 @@
-Desinax General (LESS)
+Desinax Mixin (LESS)
 ===============================
 
-[![Join the chat at https://gitter.im/desinax/figure](https://badges.gitter.im/desinax/general.svg)](https://gitter.im/desinax/general?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/desinax/mixin](https://badges.gitter.im/desinax/mixin.svg)](https://gitter.im/desinax/mixin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[![npm version](https://badge.fury.io/js/%40desinax%2Fgeneral.svg)](https://badge.fury.io/js/%40desinax%2Fgeneral)
-[![Build Status](https://travis-ci.org/desinax/general.svg?branch=master)](https://travis-ci.org/desinax/general)
-[![CircleCI](https://circleci.com/gh/desinax/general.svg?style=svg)](https://circleci.com/gh/desinax/general)
+[![npm version](https://badge.fury.io/js/%40desinax%2Fmixin.svg)](https://badge.fury.io/js/%40desinax%2Fmixin)
+[![Build Status](https://travis-ci.org/desinax/mixin.svg?branch=master)](https://travis-ci.org/desinax/mixin)
+[![CircleCI](https://circleci.com/gh/desinax/mixin.svg?style=svg)](https://circleci.com/gh/desinax/mixin)
 
-LESS/SASS module for general reusable elements which are not yet in their own repo.
+LESS/SASS module for reusable general mixin elements.
 
 
 
@@ -17,7 +17,7 @@ Install
 You can install using npm.
 
 ```text
-npm install @desinax/general
+npm install @desinax/mixin
 ```
 
 
